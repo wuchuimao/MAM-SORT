@@ -18,6 +18,5 @@ UA-DETRAC数据集不仅标注了车辆的位置信息，还标注了道路中�
 ## 车辆重识别数据集
 -------
 车辆重识别数据集是使用VeRi776。与车辆检测网络一样，为了提升整个跟踪算法在大雪、大雾等恶劣交通视频场景下的跟踪泛化性，本文也会对训练CA-OSNet的数据集进行大雨和大雾的数据增强。除此之外，为了减少跟踪过程中车辆的尺度变化和遮挡问题对外观特征辨识度的影响，在训练CA-OSNet时还会对VeRi776数据集进行随机翻转，随机裁剪，随机擦除等数据增强。
-![](https://github.com/wuchuimao/MAM-SORT/raw/main/images/flip.jpg)<br>
-![](https://github.com/wuchuimao/MAM-SORT/raw/main/images/crop.jpg)<br>
-![](https://github.com/wuchuimao/MAM-SORT/raw/main/images/patch.jpg)<br>
+![](https://github.com/wuchuimao/MAM-SORT/raw/main/images/reid.jpg)<br>
+
