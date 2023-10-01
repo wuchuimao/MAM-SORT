@@ -22,8 +22,8 @@ UA-DETRAC数据集不仅标注了车辆的位置信息，还标注了道路中�
 总体流程如下图所示。<br>
 ![](https://github.com/wuchuimao/MAM-SORT/raw/main/images/MAM-SORT.jpg)<br>
 CA-OSNet是在OSNet的基础上加上了Coordinate Attention，使CA-OSNet不仅拥有了通道注意力，还拥有空间注意力，提升了车辆外观特征提取的有效性。
-MAM是以运动特征为主，外观特征为辅的关联匹配算法，即先使用IOU进行检测框和轨迹的匹配，再使用嵌入外观特征进行检测框与轨迹的匹配。
-本项目作为本人的毕业论文项目，暂未发表，为了毕业论文查重，暂时不开源代码，如需沟通交流，可联系2438232742@qq.com。<br>
+MAM是以运动特征为主，外观特征为辅的关联匹配算法，即先使用IOU进行检测框和轨迹的匹配，再使用嵌入外观特征进行检测框与轨迹的匹配。<br>
+*本项目作为本人的毕业论文项目，暂未发表，为了毕业论文查重，暂时不开源代码，如需沟通交流，可联系2438232742@qq.com。<br>
 # 效果展示
 MVI-39311,MVI39401,MVI-40712,MVI-40761这4个视频的部分效果展示。
 ![](https://github.com/wuchuimao/MAM-SORT/raw/main/images/MVI-39311-ignore.gif)<br>
