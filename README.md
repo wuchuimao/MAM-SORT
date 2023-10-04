@@ -30,6 +30,9 @@ MVI-39311,MVI39401,MVI-40712,MVI-40761这4个视频的部分效果展示。
 ![](https://github.com/wuchuimao/MAM-SORT/raw/main/images/MVI-39401.gif)<br>
 ![](https://github.com/wuchuimao/MAM-SORT/raw/main/images/MVI-40712.gif)<br>
 ![](https://github.com/wuchuimao/MAM-SORT/raw/main/images/MVI-40761.gif)<br>
+**性能对比**
+将本文的MAM-SORT与其它主流多目标跟踪算法在UA-DETRAC测试数据集上对比结果如下（测试数据集中40个测试视频的综合结果）<br>
+![](https://github.com/wuchuimao/MAM-SORT/raw/main/images/results.jpg)<br>
 
 
 
